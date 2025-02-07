@@ -1,0 +1,8 @@
+```css
+/* Hide the SRS emoji/icons */
+.spaced-repetition__accuracy-buttons
+  .accuracy-button
+  .accuracy-button__icon {
+  display: none !important;
+}
+```

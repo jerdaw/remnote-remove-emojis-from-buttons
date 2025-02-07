@@ -1,0 +1,22 @@
+{
+    "manifestVersion": 1,
+    "id": "jerdaw-remnote-remove-emojis-from-buttons",
+    "name": "Remove Emojis from Buttons",
+    "author": "jerdaw",
+    "repoUrl": "https://github.com/jerdaw/remnote-remove-emojis-from-buttons",
+    "description": "Removes the emojis/emoticons/icons from Remnote's answer buttons.",
+    "theme": [],
+    "enableOnMobile": true,
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+    },
+    "requestNative": false,
+    "requiredScopes": [
+      {
+        "type": "All",
+        "level": "Read"
+      }
+    ]
+  }
